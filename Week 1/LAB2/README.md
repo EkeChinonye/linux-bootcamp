@@ -25,3 +25,9 @@ Quickstart for Bash in Azure Cloud Shell
 3. The az vm list-sizes command was very useful in understaning the vm sizes.
 4. A VM size can be selected at creation time using az vm create and the --size argument.
 5. I was able to view the current of size of my VM with az vm show.
+
+SEP=,
+NAME,SUBSCRIPTION,RESOURCE GROUP,LOCATION,STATUS,OPERATING SYSTEM,SIZE,PUBLIC IP ADDRESS,DISKS,
+"myVM","Azure subscription 1","myresourcegroupdisk","East US","Running","Linux","Standard_DS2_v2","20.119.50.119","4"
+"webserver","Azure subscription 1","chisfunplace","East US","Running","Linux","Standard_DS1_v2","20.124.9.238","2"
+"webserver","Azure subscription 1","nonye_gp","East US","Stopped (deallocated)","Linux","Standard_DS1_v2","-","2" 
