@@ -15,3 +15,8 @@ Quickstart: Manage Azure disks
 
 Quickstart for Bash in Azure Cloud Shell
 * https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
+
+
+
+# MY COMMENTS AND WHAT I LEARNT
+1. 
