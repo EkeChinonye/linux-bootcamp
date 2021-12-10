@@ -19,7 +19,7 @@ Quickstart for Bash in Azure Cloud Shell
 
 
 
-#COMMENTS
+# MY COMMENTS
 1. I was able to successfully launch azure cloud shell.
 2. I created a resourse group called nonye_gp using the az group create command. I understand that an Azure resource group is a logical container where Azure resources are deployed and managed.
 3. I created a virtual machine using the az vm create command.
