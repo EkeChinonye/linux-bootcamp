@@ -81,10 +81,8 @@ The key's randomart image is:
 
 
 # 3. Provide an SSH public key when deploying a VM
-you can use this ssh to authenticate into your linux vm
 chinonye@Azure:~/mynewRsa$ cat /.ssh/id_rsa.pub
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDJ+DqE0Lq0BT3sFQ+avkixeDDaXRrPZIMxhbs721oUYMsL4s6CdIjj9cxygXUYKdBeF6eJyfuJ2ULXd0vES4YL1sh5jecScnItXE7Xopk/I05aQWX9CpudBLZDa25rFTyoJF8wv31GDQzZsKBWI0gBD71RvNE8F7ssW4rRhJPMnXQR9mDoCj/mQWAkOgNbtQF768UFmMErkTzJp82keaXSzzAVey/0rO0oEuPkfy1w18IvQ93ywg6JmNj+mbus5URsPOliV9oI5OPCmkkGOjJQiJFU+IwsZFKXFUDWq2gu5131wT/mKgMUELZt+pl1xgCcJjSRx1uguI3COiSxaOxdchinonye@Azure:/mynewRsa$
-you can use this rsa
 
 chinonye@Azure:/mynewRsa$ ls
 mynewRsa mynewRsa.pub
